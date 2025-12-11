@@ -1,0 +1,16 @@
+.h1{
+    color: red;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    background: black;
+}
+.h1#my{
+    color: blue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+}
+#list > li{
+    font-style: italic;
+    font-size: 60px;
+    color: blueviolet;
+}
